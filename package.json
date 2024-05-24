@@ -6,7 +6,7 @@
     "scripts": {
         "seed": "mysql db/employees.db < db/seeds.sql",
         "db": "mysql db/employees.db",
-        "start": "node server.js"
+        "start": "node index.js"
     },
     "dependencies": {
         "console.table": "^0.10.0",
