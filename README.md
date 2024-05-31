@@ -16,13 +16,15 @@
   1. npm i
   2. psql -U postgres;
   3. \i db/schema.sql;
-  4. \q
-  3. node seeds/index.js
+  4. \i db/seeds.sql;
+  5. \q
+  6. npm run start
   ```
   
 
   ### Usage
-  Run npm run start
+  
+
   [Watch a video on how to use this application](https://drive.google.com/file/d/1V6cfhekbGCXCSNo2i9DS_aVmM_caYx31/view?usp=sharing)
 
 
