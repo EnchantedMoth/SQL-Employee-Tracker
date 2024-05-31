@@ -41,6 +41,7 @@ function viewEmployees() {
         } else {
         console.table(data.rows)
         }
+        start();
     })
 };
 
