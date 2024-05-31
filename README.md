@@ -22,7 +22,7 @@
   
 
   ### Usage
-
+  Run npm run start
   [Watch a video on how to use this application](https://drive.google.com/file/d/1V6cfhekbGCXCSNo2i9DS_aVmM_caYx31/view?usp=sharing)
 
 
